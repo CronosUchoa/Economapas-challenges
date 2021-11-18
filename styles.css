@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
-background-image: url('https://getwallpapers.com/wallpaper/full/3/7/c/25267.jpg');
+background-image: url('https://getwallpapers.com/wallpaper/full/3/7/c/25267.jpg'); 
 background-size: cover;
 background-repeat: no-repeat;
-height: 100%;
+height: 100%; 
+
 font-family: 'Numans', sans-serif;
 }
 
@@ -24,9 +25,14 @@ background-color: rgba(0,0,0,0.5) !important;
 .card-footer{
     background-color: rgba(0,0,0,0.6) !important;
 }
+.card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .card-header h3{
 color: white;
-
+margin:5px
 }
 
 
