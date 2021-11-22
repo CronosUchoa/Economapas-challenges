@@ -10,5 +10,8 @@
 
 ### Etapa 3
 * **criar painel*
-   * Criar crud 
    * Conectar o banco de dados
+   * Criar crud 
+
+### Etapa final
+* **deploy no heroku**
