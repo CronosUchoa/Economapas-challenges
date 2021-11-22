@@ -17,6 +17,8 @@
 * **deploy no heroku**
 [Link da aplicação](https://economapas-challenges-cronos.herokuapp.com)
 
+## stack 
+ * php, mysql, css, html, bootstrap, jquery e javascript.
 ### Experimente
 1) Usuário: joao
 Senha: 1234
