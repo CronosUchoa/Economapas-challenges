@@ -7,3 +7,8 @@
 ### Etapa 2
 * **criar o frontend*
    * Tela de login
+
+### Etapa 3
+* **criar painel*
+   * Criar crud 
+   * Conectar o banco de dados

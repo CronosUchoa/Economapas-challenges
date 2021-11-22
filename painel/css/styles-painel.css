@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata');
+*, body{
+    font-family: 'Crimson Pro', serif;
+}
+#painel_login{
+    display: flex;
+    justify-content: space-around ;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.1) !important;
+}
+
+#painel_login-B{
+    display: flex;
+    font-size:20px;
+    padding: 2px 15px;
+    border-radius:20px;
+    text-decoration: none;
+    align-items: center;
+    
+} 
+
+ #painel_login-B:hover{
+    padding: 2px 15px;
+    border-radius:20px;
+    background-color: rgba(0,0,0,0.6) !important;
+    text-decoration: none;
+    color: white !important;
+    
+}
+
+
+#painel_login-T{
+    
+    font-family: 'Crimson Pro', serif;
+}

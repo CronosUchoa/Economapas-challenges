@@ -1,4 +1,4 @@
-CREATE DATABASE economapasDB  ;
+CREATE DATABASE IF NOT EXISTS economapasDB  ;
 USE economapasDB;
 
 CREATE TABLE `economapasDB`.`usuarios` (
@@ -16,6 +16,6 @@ CREATE TABLE `economapasDB`.`usuarios` (
   CREATE TABLE `economapasDB`.`grupos` (
   `idgrupo` INT NOT NULL AUTO_INCREMENT,
   `nomeGrupo` VARCHAR(45) NOT NULL,
-  `cidades` VARCHAR(45) NOT NULL,
+  `cidades` VARCHAR(200) NOT NULL,
     PRIMARY KEY (`idgrupo`));
   
