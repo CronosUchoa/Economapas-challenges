@@ -16,3 +16,10 @@
 ### Etapa final
 * **deploy no heroku**
 [Link da aplicação](https://economapas-challenges-cronos.herokuapp.com)
+
+### Experimente
+1) Usuário: joao
+Senha: 1234
+
+2) Usuário: maria
+Senha: 5678
